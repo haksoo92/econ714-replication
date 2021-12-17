@@ -1,0 +1,11 @@
+,AAPL,MSFT,TSLA
+Return,1.14,1.24,1.22
+Std,0.11,0.12,0.24
+Sharpe,10.46,10.12,5.17
+Skewness,0.81,0.3,1.81
+Kurtosis,-0.04,-1.0,2.25
+Turnover,0.04,0.04,0.09
+MDD,0.1,0.08,0.16
+Alpha CAPM,2.7,3.39,2.66
+Alpha FF3,1.69,2.23,2.34
+Alpha FF4,1.58,2.3,2.57

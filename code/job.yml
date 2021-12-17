@@ -1,0 +1,8 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+code:
+  local_path: /home/hsl612/gitWorkspace/priceinfo-rl/code
+command: python main.py
+environment:  azureml:AzureML-tensorflow-2.4-ubuntu18.04-py37-cuda11-gpu:19
+compute: azureml:cpu-cluster
+experiment_name: rlinfo-theoretical
+description: Train a RL agent in a theoretic environment.
